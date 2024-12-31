@@ -4,4 +4,4 @@
 ## book.okaryo.io
 okaryoの本棚
 
-👉 https://book.okaryo.io
+👉 https://book.okaryo.studio
