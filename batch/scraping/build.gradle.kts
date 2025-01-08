@@ -16,7 +16,7 @@ repositories {
 dependencies {
     implementation("org.jsoup:jsoup:1.18.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.0")
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.1")
     implementation("org.json:json:20241224")
     implementation("org.seleniumhq.selenium:selenium-java:4.27.0")
