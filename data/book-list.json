@@ -1,5 +1,5 @@
 {
-    "recordsCount": 967,
+    "recordsCount": 965,
     "records": [
         {
             "date": "2025-02-10",
@@ -11417,30 +11417,6 @@
             "date": null,
             "review": "",
             "book": {
-                "author": {"name": "アダム 徳永"},
-                "page": 192,
-                "title": "実践イラスト版 スローセックス 完全マニュアル",
-                "url": "https://www.amazon.co.jp/dp/product/406214087X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=406214087X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
-            },
-            "format": "Paper",
-            "isRereading": false
-        },
-        {
-            "date": null,
-            "review": "",
-            "book": {
-                "author": {"name": "宋 美玄"},
-                "page": 174,
-                "title": "女医が教える 本当に気持ちのいいセックス",
-                "url": "https://www.amazon.co.jp/dp/product/489308738X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=489308738X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
-            },
-            "format": "Paper",
-            "isRereading": false
-        },
-        {
-            "date": null,
-            "review": "",
-            "book": {
                 "author": {"name": "川越 敏司"},
                 "page": 224,
                 "title": "はじめてのゲーム理論 (ブルーバックス)",
@@ -11606,5 +11582,5 @@
             "isRereading": false
         }
     ],
-    "totalPages": 295797
+    "totalPages": 295431
 }
