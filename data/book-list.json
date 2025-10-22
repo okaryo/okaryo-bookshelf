@@ -1,6 +1,870 @@
 {
-    "recordsCount": 969,
+    "recordsCount": 1041,
     "records": [
+        {
+            "date": "2025-07-25",
+            "review": "Audibleにて。古代オリエント史をメソポタミア、エジプト、シリア、パレスティナと詳細に解説する。4章最後の古代の人々には神々の声が聴こえていた説はちょっと受け入れがたかったが、古代エジプト史は面白かったし、個人的にも海の民を雑に使いすぎだと思っていたところをツッコんでくれて良かった。詳細に解説してくれるので古代世界に思いを馳せながら旅しているようで面白かった。個人的には人々が文字という発明を手に入れる以前と以後でどんな精神的構造の変化があったのか、それが社会にどういう変化を与えたのかが気になる。",
+            "book": {
+                "author": {"name": "本村 凌二"},
+                "page": 336,
+                "title": "地中海世界の歴史1 神々のささやく世界 オリエントの文明 (講談社選書メチエ 801)",
+                "url": "https://www.amazon.co.jp/dp/4065354250/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4065354250&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2025-03-21",
+            "review": "第一部と第二部は色んなところで見かける内容だった。結局トレードオフを評価して意思決定をすることになるが、そのための視点をくれたり整理できたという点で良かった。第三部ではオプションという金融用語が出てきて調べながら読んだが、不確実性が高いときほど柔軟な選択ができる状態には価値がある、というオプションの観点からソフトウェア設計と整頓を考える視点は面白かった。改めてソフトウェアは資産なんだと感じた。続編もあるようなので楽しみ。",
+            "book": {
+                "author": {"name": "Kent Beck"},
+                "page": 164,
+                "title": "Tidy First? \u2015個人で実践する経験主義的ソフトウェア設計",
+                "url": "https://www.amazon.co.jp/dp/4814400918/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4814400918&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2025-02-15",
+            "review": "Audibleにて。人類学における重要人物たちであるマリノフスキ、レヴィ=ストロース、ボアズ、インゴルドの4人をたどりながら現在の人類学について解説した本。相対主義や構造主義については知っていたが、それらが人類学から出てきたのは改めて気付かされたし、フィールドワークがメインの話だと思っていたら哲学的な話が多かったのも印象的だった。また、人類学は哲学的でもあるが、政治による影響も大きく受けていることを感じたし、それゆえに人類における政治の不可分性も感じることとなった。",
+            "book": {
+                "author": {"name": "奥野 克巳"},
+                "page": 224,
+                "title": "はじめての人類学 (講談社現代新書)",
+                "url": "https://www.amazon.co.jp/dp/4065328578/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4065328578&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2025-02-10",
+            "review": "Audibleにて。元々憧れだったバスドライバーへ教員から転職された方の生々しい体験記。所々に笑えるような面白い話もあるが、ほとんどが胸が苦しくなるような話だった。特に後半の運行ミスからの退職までの話はこちらまで胸がギュッとなった。一方で、あとがきに書かれていたどんな職業でも誰かの役に立っており、そのやりがいを感じる一瞬を慈しんでいるという言葉には救われるものがあったし自分自身感じ入るものがあった。こういった職業エッセイは連続で読むにはしんどそうだが、日を開けてまた読んでみたいと思った。",
+            "book": {
+                "author": {"name": "須畑 寅夫"},
+                "page": 208,
+                "title": "バスドライバーのろのろ日記\u2015\u2015本日で12連勤、深夜0時まで時間厳守で運転します (日記シリーズ)",
+                "url": "https://www.amazon.co.jp/dp/4866809302/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4866809302&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2025-02-04",
+            "review": "Audibleにて。個人事業主を始めてセルフコントロールの重要さを改めて感じるので読んでみた。タイトルの通り、根性論ではなく行動科学の知見からどうすれば自分で定めた目標達成に近づけるかを科学的に紹介する本。目標を絞ったり分解したりなどいろんなところで見聞きした内容があるような気がしたが、それを体系立てて科学的にまとめている本といして価値があるように思う。周りを巻き込んでレフリーを設定するというのは威力をすごく感じる反面、なかなか難しいなと思うなどした。",
+            "book": {
+                "author": {"name": "オウェイン・サービス,ローリー・ギャラガー"},
+                "page": 224,
+                "title": "根性論や意志力に頼らない 行動科学が教える 目標達成のルール",
+                "url": "https://www.amazon.co.jp/dp/4799330942/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4799330942&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2025-01-25",
+            "review": "Audibleにて。マーケティングの参考になるような施策を求めて読んだ。タイトルの通り、個人事業から中小企業をターゲットとしたマーケティング本で、内容は実践的でたくさんの事例を紹介していてとても参考になった。6マスマーケティングやメイン商品の考え方など、早速取り入れていきたいものもあり、物理本も買っておいていつでも見返せれるようにしておこうかと思った。",
+            "book": {
+                "author": {"name": "谷田部 敦"},
+                "page": 288,
+                "title": "小さな会社の勝算　90日で売れる仕組みになるデジタルマーケティング",
+                "url": "https://www.amazon.co.jp/dp/4761277149/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4761277149&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-12-19",
+            "review": "Audibleにて。和田秀樹さんって受験勉強本の人かと思っていたが精神科医もされていたのを初めて知った。森田式のあるがままを受け入れるという考え方は、ストレスを無くしたり目を逸らすのではなくどう向き合うかという認知行動療法の考え方に合っていて自分にはしっくり来た。また、紹介されている悩み方の作法としては、自分でコントロールできないものに長々と悩まない、やってみてダメだったら改善して再びやってみるという割とスタンダードなもので、人間の悩みなんてみんな共通的なんだなと思うと少し安心できた。",
+            "book": {
+                "author": {"name": "和田 秀樹"},
+                "page": 192,
+                "title": "悩み方の作法 (ディスカヴァー携書)",
+                "url": "https://www.amazon.co.jp/dp/4799312065/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4799312065&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-12-17",
+            "review": "再読。Audibleにて。会社員になり個人事業主になり嫌でも政治に関心を持つようになり、当時は嫌味なおじさんくらいにしか思っていなかった石原慎太郎氏を懐かしむようになり、再びこの本を読みたくなった。田中角栄という現代にはないリーダーシップと実行力を持つ政治家という点はとても魅力的に感じたが、やはり金券政治と家族への態度については昭和感を否めなかった。一方で自分のそういった視点は人間に完璧を求める昨今の潔癖主義を感じてしまい少し反省するきっかけとなった。",
+            "book": {
+                "author": {"name": "石原 慎太郎"},
+                "page": 226,
+                "title": "天才",
+                "url": "https://www.amazon.co.jp/dp/4344028775/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4344028775&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": true
+        },
+        {
+            "date": "2024-12-05",
+            "review": "Audibleにて。ソフトウェア開発において何か活かせることがあればと思って読んだ。45個の仕掛けを紹介しておりそれらを直接活かせそうにはなかったが、それを実践する上での考え方や公平性・誘因性・目的の二重性といった仕掛けの3つの要件、仕掛けに関わる倫理はとても興味深く参考になった。また、紹介する仕掛けの中では失敗例も一緒に紹介されており、やはりこういった類は失敗してなんぼのものだなと感じたし、なかなか失敗を許容できない日本では難しいもののようにも感じた。",
+            "book": {
+                "author": {"name": "松村　真宏"},
+                "page": 216,
+                "title": "実践仕掛学: 問題解決につながるアイデアのつくり方",
+                "url": "https://www.amazon.co.jp/dp/4492224149/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4492224149&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-11-22",
+            "review": "Audibleにて。静かな退職という言葉があるのを最近知ったので気になって読んでみた。挑戦や責任から逃れたり、仕事の中に成長や楽しみを見出していない人たちのことを少し冷ややかな目で見ていた面が自分の中にあったが、過半数以上の人たちがそうであるという現実に悲しさの方が大きくなった。本書で紹介されているいい子症候群、若者における知識やスキルのファストフード化はなるほどと感じた。",
+            "book": {
+                "author": {"name": "金間 大介"},
+                "page": 336,
+                "title": "静かに退職する若者たち 部下との1on1の前に知っておいてほしいこと",
+                "url": "https://www.amazon.co.jp/dp/4569856527/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4569856527&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-11-20",
+            "review": "Audibleにて。個人事業でOKRを使用しているがそれをブラッシュアップしたくて読んだ。KPIは知っているつもりだったが、設定するのは一つだけというのは初耳だった。また、本筋ではないがリクルートのTTP(徹底的にパクる)、TTPS(徹底的にパクって進化させる)という標語はとてもいいなと感じた。",
+            "book": {
+                "author": {"name": "中尾隆一郎"},
+                "page": 244,
+                "title": "最高の結果を出すKPIマネジメント",
+                "url": "https://www.amazon.co.jp/dp/4894519844/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4894519844&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-11-02",
+            "review": "Audibleにて。リアルな生き物系のガチャガチャが好きでコロナ前から回していたが、最近は1,000円のプレミアガチャがあったり、専門店が出てきたりと実際の肌感覚としてガチャガチャが伸びているのを感じていたので読んでみた。自分が思っていた以上にガチャガチャの市場規模は大きく、今後も伸びていく期待があるのは驚いた。何が出るか分からないものを回して楽しむというという体験のコト消費はくじ引きという歴史もあり、小さなギャンブルに慣れている日本人の文化や国民性という視点はなるほどと思った。",
+            "book": {
+                "author": {"name": "小野尾 勝彦"},
+                "page": 168,
+                "title": "ガチャガチャの経済学",
+                "url": "https://www.amazon.co.jp/dp/4833424940/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4833424940&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-11-01",
+            "review": "Audibleにて。今年個人事業主になったので誰かの権利を知らずに侵害しないために、自分の身を守るために、改めて社会人として必要な法律を押さえておこうとおもって読んだ。落ちこぼれだったとはいえ元法学部であり社会人になってからもちょこちょこ法律の本を読んでいた自分には見知った内容だった。とはいえ、社会人にとっては知っておくべき会社法や労働法、個人情報保護法、著作権法など広く触れられていて入り口には良いと感じた。",
+            "book": {
+                "author": {"name": "小宮 一慶"},
+                "page": 214,
+                "title": "ビジネスマンのための「法律力」養成講座 (小宮一慶の養成講座) (ディスカヴァー携書)",
+                "url": "https://www.amazon.co.jp/dp/4799325760/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4799325760&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-10-07",
+            "review": "Audibleにて。自分も世間的には高学歴に分類されているためか、何か惹かれるものがあって読み始めた。高学歴難民というとポスドクとかの話かなと思ったが、本書ではたくさんの高学歴難民たちの事例を紹介しており、多様な難民のあり方があるのだと驚くとともに共感しながら読んだ。個人的な問題ももちろんあるが、社会的な問題も感じられる。社会的な役割は難民化を遠ざけるというのはすごく共感。他人にも自分自身にも優しくなれる社会になってほしい。",
+            "book": {
+                "author": {"name": "阿部 恭子"},
+                "page": 192,
+                "title": "高学歴難民 (講談社現代新書 2722)",
+                "url": "https://www.amazon.co.jp/dp/4065330866/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4065330866&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-10-01",
+            "review": "Audibleにて。いよいよロンドンへ、と思いきやスペイン、ポルトガル、南端のサグレスへ向かい始めたときは本当に最終巻かと疑ってしまった。トルコのあたりで旅の終わりに対して鬱々とした気持ちを抱えていたが、それとは打って変わってカラッとした終わりに呆気に取られるような気持ち良さがあった。恐れずに、しかし気を付けて、旅だけでなく人生や色んなことに通じる気がする。",
+            "book": {
+                "author": {"name": "沢木 耕太郎"},
+                "page": 288,
+                "title": "深夜特急6 ー 南ヨーロッパ・ロンドン〈文字拡大増補新版〉 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101235333/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101235333&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-08-31",
+            "review": "サブスクモデルに関する知識を入れたくて読んだ。今となっては割とよく見るモデルだが、当時のAdobeの方向転換を思い出しつつ当時と今を比較しながら読んだ。サブスクモデルの概要から、どんな業界にもそれが当てはまること、それが企業内でどんな影響や効果をもたらすのかを概観できた。特にファイナンスに与えた影響は興味深く、今までのP/Lでは過去の数字を見ることはできるがサブスクモデルという未来の収益は記述できていない、それが成長公式としてARRと出されていたのはまさにビジネスモデルの転換といった感じがして面白かった。",
+            "book": {
+                "author": {"name": "ティエン・ツォ,ゲイブ・ワイザート"},
+                "page": 360,
+                "title": "サブスクリプション\u2015\u2015「顧客の成功」が収益を生む新時代のビジネスモデル",
+                "url": "https://www.amazon.co.jp/dp/4478105529/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4478105529&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-06-29",
+            "review": "Audibleにて。ジーパンが好きなので読んでみた。デニムの歴史や文化、自分には馴染みのないヴィンテージという分野を知れてとても面白かった。一方で、デニムの世界はこんなに深いのを知ることでファッションにはもっと広くて深い世界があるのを感じ、それによって自分のジーパンに対する思いは浅いし自分がジーパンを好きなのは妥協や消去法によるものなのかもしれないと勝手に少し暗い気持ちになった。",
+            "book": {
+                "author": {"name": "藤原 裕"},
+                "page": 208,
+                "title": "日本人が見出したヴィンテージの価値 教養としてのデニム",
+                "url": "https://www.amazon.co.jp/dp/4048971883/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4048971883&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-06-11",
+            "review": "ちょうどクラウド周りを触っていて原則に則った設計ができているか気になったので読んでみた。Azureのアーキテクチャガイドの10の設計原則を元に解説している。AWSのWell-Architectedは知っていたが、Azureにも同様のものがあったのは知らなかった。Azureのガイドを解説しているとはいえ、その内容はAzureを知らなくても通用する設計原則であり、スケールアウト、分割や運用の話は参考になった。特に、ビジネスニーズを見失わないような設計・運用をしていきたいと改めて意識した。",
+            "book": {
+                "author": {"name": "真壁 徹"},
+                "page": 288,
+                "title": "クラウドアプリケーション 10の設計原則　「Azureアプリケーションアーキテクチャガイド」から学ぶ普遍的な原理原則",
+                "url": "https://www.amazon.co.jp/dp/4295017884/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4295017884&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-05-27",
+            "review": "Audibleにて。自分自身もいわゆる優等生で、親や学校からの期待を自分の中で勝手に作り上げて生きてきたが、大学のときに行き方が分からなくなり休学した体験があるので読んでみた。尖った才能を見出し評価するAO入試の導入、地方でありながら世界的にも最先端の研究成果を出す鶴岡のタウンキャンパス作成のこれまでが詳細に書かれていて面白かった。本書にも書いてあったが全員が革新者であるのは難しいが、それを生み出す環境があるのは大事で、地元の高校生を実際に巻き込んで進めるさまは高校生たちを羨ましく思った。自分も頑張ろう。",
+            "book": {
+                "author": {"name": "冨田 勝"},
+                "page": 200,
+                "title": "脱優等生のススメ (ハヤカワ新書 007)",
+                "url": "https://www.amazon.co.jp/dp/4153400076/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4153400076&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-05-24",
+            "review": "Audibleにて。話題の本だったので読んでみた。精神科医である著者が少年院で出会う非行少年たちの現実を書いた本。彼らの多くは認知機能の低さゆえに世界が歪んで認知されており、行動に伴う将来の結果の予測ができなかったり罪を罪と思えなかったりと反省以前の問題があった。作中に出てきたケーキを等分しようとした図や、図形を真似して書こうとした図は自分が当たり前だと感じていた世界が揺らぐような感覚を覚えた。自分自身の認知すら完全には信頼できるものではないこと、非行少年たちのリアルを教えてくれた良書。",
+            "book": {
+                "author": {"name": "宮口 幸治"},
+                "page": 192,
+                "title": "ケーキの切れない非行少年たち (新潮新書)",
+                "url": "https://www.amazon.co.jp/dp/4106108208/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4106108208&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-05-07",
+            "review": "Audibleにて。『21世紀の資本』で有名な方の講演をまとめたものでコンパクトな内容。過去から現在までの社会の不平等の変遷と現在の不平等の課題を豊富なデータとともに明らかにしてくれる。まだまだ不平等はあるものの平等への道は少しずつ進んでいるのは救われた。ちょうど少し前に税法の本を読んだこともあって、累進課税の話や社会や政治の仕組みによって格差の改善を期待する話は面白く読めた。",
+            "book": {
+                "author": {"name": "トマ・ピケティ"},
+                "page": 104,
+                "title": "自然、文化、そして不平等 \u2015\u2015 国際比較と歴史の視点から",
+                "url": "https://www.amazon.co.jp/dp/416391725X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=416391725X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-05-02",
+            "review": "QAに関する一般的な考え方をインプットしておきたくて読み始めた。ついついバグの数を減らしたりテスト実行時間を短くしたりと目につきやすい指標に走りがちだが、QAにおいてもその指標が企業の成長指標と紐づいているかというビジネス視点が必要なのは自分の考えとも合っていて安心できた。また、プロダクトのライフサイクルに応じたQAアプローチの変化と言う時間軸の視点や、原因ベースではなく現象ベースによるアラート・モニタリングシステムによってユーザーが本当に気にしている品質に着目することなど参考になることがたくさんあった。",
+            "book": {
+                "author": {"name": "Ronald Cummings-John,Owais Peer"},
+                "page": 168,
+                "title": "LEADING QUALITY",
+                "url": "https://www.amazon.co.jp/dp/4048931121/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4048931121&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-05-01",
+            "review": "Audibleにて。少し前に『商人の世界史』を読んでもう少し広い視点からイギリスを見てみたいと思って読んだ。一国史になりがちな世界史に対し、グローバルヒストリーという世界全体における関係性から歴史を解釈する視点は面白く、二流国がヘゲモニー国家へと至っていく過程や、二度の大戦を経て地位が変わっていく過程など興味深く読めた。また、近年におけるイギリス産業革命の解釈の変化も知ることができ、学生時代に得た知識も徐々にアップデートしていかねばと感じた。",
+            "book": {
+                "author": {"name": "秋田 茂"},
+                "page": 432,
+                "title": "イギリス帝国盛衰史 グローバルヒストリーから読み解く (幻冬舎新書 708)",
+                "url": "https://www.amazon.co.jp/dp/4344987101/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4344987101&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-24",
+            "review": "社会人として税金について最低限のことは知っておこうと思って読んだ。表紙の可愛い猫のイラストやタイトルの「日本一やさしい」という言葉に惹かれて購入したが、税金に関するルールをただ羅列しているのではなく、税法の根幹にある理論や立法の背景などを丁寧に解説しながら進める骨太な本だった。税金は国や地方自治体の予算になることから、その仕組みにはどういった社会を実現していきたいのか、人々にどういった行動を促していきたいのかがハッキリと反映されており、とても面白い法律分野に感じた。やっぱり大人になってからの勉強は面白い。",
+            "book": {
+                "author": {"name": "西中間 浩"},
+                "page": 256,
+                "title": "日本一やさしい税法と税金の教科書",
+                "url": "https://www.amazon.co.jp/dp/453405694X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=453405694X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-24",
+            "review": "昨年の夏に東北旅行をする前に東北の箇所を読んでから旅立ち、そのまま放置していたがその後『街道をゆく』の象潟の章を読んだことで再び取り出して読んだ。自分も東北旅行の中で芭蕉が当時見たものと同じものを見たはずだが、芭蕉ほど感動したり涙を流したりしなかったのを少し引け目に感じていたが、解説にあった「対象をあわれと見る心で積極的に美を発見する」姿勢はこれまでの自分には確かにあまりなく、芭蕉の精神の豊かさはそういった経験の積み重ねもあるのだろうと納得した。自分ももっと世界に対して積極的に関わっていきたい。",
+            "book": {
+                "author": {"name": "松尾 芭蕉,萩原 恭男"},
+                "page": 296,
+                "title": "おくのほそ道: 付 曾良旅日記 奥細道菅菰抄 (岩波文庫 黄 206-2)",
+                "url": "https://www.amazon.co.jp/dp/4003020626/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4003020626&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-19",
+            "review": "各SNSマーケティングにおける特徴や機能をざっと掴んでおきたくて読んだ。より深掘りするためには他の本を読んだ方が良いように思うが、入門には良さそう。ターゲットと運用目的を具体的に定めること、数値分析を行い振り返りを行うこと、ユーザー目線であること、小さくても継続が重要であること、この辺りはマーケティングに限らずどこでも重要なんだと感じた。実行あるのみ。",
+            "book": {
+                "author": {"name": "門口妙子"},
+                "page": 224,
+                "title": "SNSマーケティング大全",
+                "url": "https://www.amazon.co.jp/dp/4827213240/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4827213240&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-19",
+            "review": "Audibleにて。最近は自分の周りで生物関連の話題が多いのでタイトルに惹かれて読んでみた。読み始めるときは著者のことを存じ上げなかったが、ノーベル賞受賞歴もある生物学界の大物だった。細胞、遺伝子、自然淘汰、化学としての生命、情報としての生命、という5つの大きなトピックを解説しながら、タイトルの回答として自然淘汰を通じた進化・境界をもつ、物理的な存在・化学的、物理的、情報的な機械という生命の定義を挙げる。自然淘汰について知っていても生物の多様性や複雑さ、美しさには圧倒されてしまう。",
+            "book": {
+                "author": {"name": "ポール・ナース"},
+                "page": 272,
+                "title": "WHAT IS LIFE?(ホワット・イズ・ライフ?)生命とは何か",
+                "url": "https://www.amazon.co.jp/dp/4478111073/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4478111073&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-11",
+            "review": "先日受講した駿台の大島先生による大人の教養講座にて紹介されたので読んでみた。阪大の名物講義を文庫化したもので、実際にカレーやラーメン、ソーセージなどの料理をしながら身近な料理や食品に関連する生物学や化学を解説するというもので、現実の体験と学問が結びつく感覚があってとても面白かった。あとがきに「身体化」という言葉が出てきてハッとしたが、知識を知識として終わらせずに身体化まですることで世界をたくさん楽しめるようになりたいなと改めて感じた。先生の他の本である『お皿の上の生物学』も読んでみたい。",
+            "book": {
+                "author": {"name": "小倉 明彦"},
+                "page": 253,
+                "title": "実況・料理生物学 (文春文庫 お 70-1)",
+                "url": "https://www.amazon.co.jp/dp/4167908018/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4167908018&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-10",
+            "review": "Audibleにて。『サピエンス全史』の著者が新しい本を出していると思ったら、『サピエンス全史』を子ども向けに書いたような本だった。とはいえ、噛み砕かれて書かれているので本の内容の復習になった。また、ちょうど先日にドーキンス先生の『神のいない世界の歩き方』を読んだばかりだったので、神話などの物語を作ることができる人類の力と危うさ、進化論からみる人類や社会をまた別の角度から見れたようで面白かった。",
+            "book": {
+                "author": {"name": "ユヴァル・ノア・ハラリ,リカル・ザプラナ・ルイズ"},
+                "page": 168,
+                "title": "人類の物語 Unstoppable Us ヒトはこうして地球の支配者になった (人類の物語Unstoppable Us)",
+                "url": "https://www.amazon.co.jp/dp/4309629318/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4309629318&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-04",
+            "review": "Audibleにて。著者の『実践顧客起点マーケティング』が良かったのでこっちも聴いてみた。専門用語が乱立し、手段偏重になっているマーケティングの世界において、改めて価値とは何かマーケティングとは何かを本質的に構造的に捉え直す本。マーケティングとはどういうものかをシンプルに整理されて書かれていてとても良かった。大事なことはどんなお客様にどんなプロダクトを届けるのかというWHOとWHAT、価値とはWHOとWHATの組み合わせであり、便益と独自性の提供。この本も物理本を買って手元においておきたい。",
+            "book": {
+                "author": {"name": "西口 一希"},
+                "page": 224,
+                "title": "マーケティングを学んだけれど、どう使えばいいかわからない人へ",
+                "url": "https://www.amazon.co.jp/dp/4534059833/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4534059833&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-04-01",
+            "review": "再読。改めてOKRを確認したくてざっと読み直した。OKRをしばらく実践してから読むと、当時はわかっていなかったことや、今実践しているOKRが本来のOKRから外れてしまっている部分を実感できた。目標達成のためにやらないことを決め、やることにおいても重要項目のみで優先度づけし、期間中はそれから外れず集中するようにする、到達度の指標は具体的な数値で評価できるようにする。目標達成のためには言われてみると当たり前だが、つい他のタスクに気を取られて道から外れてしまいがちなことを思うと良いフレームワークだと改めて思う。",
+            "book": {
+                "author": {"name": "クリスティーナ・ウォドキー"},
+                "page": 224,
+                "title": "OKR(オーケーアール) シリコンバレー式で大胆な目標を達成する方法",
+                "url": "https://www.amazon.co.jp/dp/4822255646/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4822255646&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": true
+        },
+        {
+            "date": "2024-03-30",
+            "review": "Audibleにて。タイトルに惹かれて聴いてみた。銀行員から外資コンサル、今は僧侶というキャリアを歩んでいる著者。個人的に印象に残った部分としては、真面目な人ほど社会や会社の期待に応えようとして自分の枠をそれらにおいてしまうというもので、自分自身のこれまでと今を思うと確かにそうだったかもと思ってしまった。著者のキャリについてはビジネスマンから僧侶という異色のキャリア転換かと思いきや、僧侶になってもビジネスマンと同じようなことをしていて笑ってしまった。",
+            "book": {
+                "author": {"name": "安永 雄彦"},
+                "page": 216,
+                "title": "何度でもリセット元コンサル僧侶が教える 「会社軸」から「自分軸」へ転換する マインドセット",
+                "url": "https://www.amazon.co.jp/dp/4799330039/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4799330039&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-28",
+            "review": "Audibleにて。トルコからギリシャ、チャイを飲むアジアからコーヒーを飲むヨーロッパへ。旅も最後の舞台であるヨーロッパへ差し掛かり、これまでの旅を思い返すことが増えてきたなあと思っていたら、主人公自身もそれに思い至ったようで旅の幼年期、老年期といった面白い解釈をする。今も文庫本をやり取りしたり旅人をもてなすような文化は残っているんだろうか。いよいよ次は最終巻、主人公は旅の終わりに何を思うんだろうか。",
+            "book": {
+                "author": {"name": "沢木 耕太郎"},
+                "page": 288,
+                "title": "深夜特急5 ー トルコ・ギリシャ・地中海〈文字拡大増補新版〉 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101235325/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101235325&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-27",
+            "review": "この美しく精巧な世界にはまるで「設計者」がいるんじゃないかと思いたくなるが、この本では前半で神と宗教の否定を、後半では世界の仕組みを科学的に解説している。神を信じていたり宗教への信仰が盛んな国の若者に向けて書かれている本なので、無宗教である日本人の自分には特に前半部は面白みに欠ける部分があるが、神や宗教をバッサバッサと否定していくドーキンス先生の語り口は面白い。後半部で個人的に面白かったのは、人間の信仰や親切といったものの発生や存続が進化論的に説明できる見方もあるということ。やっぱり世界と科学は面白い。",
+            "book": {
+                "author": {"name": "リチャード・ドーキンス,Richard Dawkins"},
+                "page": 352,
+                "title": "神のいない世界の歩き方: 「科学的思考」入門 (ハヤカワ文庫NF)",
+                "url": "https://www.amazon.co.jp/dp/415050590X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=415050590X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-20",
+            "review": "個人事業主を始める上での準備や心構え、続けていく上で気をつけることが100個書かれている。そのどれもが著者の実体験から基づいたものであり、考えてみれば割と当たり前のことが書かれているものの実体験に根付いた言葉は重みがあって説得力があった。本業に専念できるようにするために外注できる作業の見極めを行うこと、時間軸を持ってなりたい姿を具体化しておくこと、現状維持は衰退であり常に仕事を改善すること、心と身体の健康は会社員時代よりも気をつけることなど参考になることがいくつかあった。",
+            "book": {
+                "author": {"name": "天田 幸宏"},
+                "page": 224,
+                "title": "個人事業主1年目の強化書",
+                "url": "https://www.amazon.co.jp/dp/4534058721/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4534058721&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-17",
+            "review": "少し前に読んだ『世界一流のエンジニアの思考法』で紹介されていたので読んでみた。最初の方を読んでいるうちは、休息とは仕事とそれ以外をしっかり分けて体と心を休めることだと思っていたが、本書における「休息」はただ休むことではなく計画的で意図的な活動だった。睡眠もその一つに過ぎず、他の休息法として運動や旅行、一人になること、内省すること、遊ぶこと、デジタルデトックスなどを紹介している。今までとは違う休息の考え方を知れたし、生産性が高くないのに長時間労働をしている社会や生き方を考え直すきっかけにもなり、良書だった。",
+            "book": {
+                "author": {"name": "ジョン・フィッチ,マックス・フレンゼル"},
+                "page": 528,
+                "title": "TIME OFF　働き方に\u201c生産性\u201dと\u201c創造性\u201dを取り戻す戦略的休息術",
+                "url": "https://www.amazon.co.jp/dp/4295408115/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4295408115&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-16",
+            "review": "Audibleにて。著者の所属していたスマートニュースなどの実際の数値も見せながら顧客起点マーケティングであるN1分析について解説されている。手段に囚われてしまったマーケティングや目的を見失ったアンケートなど心当たりがあることがいくつかあり、身につまされることが多かった。特にtoCにおいてはNの大きなデータを参考にすることが多いという固定観念がありN1分析は意外に思ったが、確かにありきたりな結果になってきたのは多く見てきたので納得。手元に置いてたまに見返したいので物理本も買おうと思った。",
+            "book": {
+                "author": {"name": "西口 一希"},
+                "page": 239,
+                "title": "たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）",
+                "url": "https://www.amazon.co.jp/dp/4798160075/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4798160075&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-16",
+            "review": "個人事業開業に関する諸々をざっと把握しておきたいと思って読んだ。思っていた以上にやることが多く、いかに会社員が会社による恩恵を受けているかを実感した。仮に実際に開業したときにはクラウドサービスや税理士さんを利用するとは思うが、依頼しないといけないことにはどんなことがあるのか、どんな考慮事項があるのかは自分でも大雑把にでも把握しておいた方が良いように思った。その点、本書は必要な項目については網羅的に書かれていたように思う。",
+            "book": {
+                "author": {"name": "東京シティ税理士事務所"},
+                "page": 256,
+                "title": "【改訂2版】らくらく個人事業開業のすべてがわかる本",
+                "url": "https://www.amazon.co.jp/dp/4866675160/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4866675160&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-15",
+            "review": "Audibleにて。エンジニアである自分や周りは割とAIに対して歓迎的であるので他の社会一般ではどういったリスクや動きがあるのかを知りたくて読んだ。いわゆるハードローによる規制や整備が追いついておらず、ソフトローによる自主規制への流れは納得。個人的に面白かったのは、アジャイルの考え方がガバナンスにおいても取り入れられている点。AIを使ったプロダクトやサービスを今後作っていく可能性がある自分においても、ユーザーの権利や健康を侵害することのないよう気を付けていこうと思った。",
+            "book": {
+                "author": {"name": "羽深 宏樹"},
+                "page": 272,
+                "title": "AIガバナンス入門: リスクマネジメントから社会設計まで (ハヤカワ新書)",
+                "url": "https://www.amazon.co.jp/dp/4153400173/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4153400173&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-12",
+            "review": "メソポタミアの商人から始まり、フェニキア人、パルティア商人、イスラーム商人、ソグド商人、イタリア・セファルディム・アルメニア商人、ファイキング・ハンザ・オランダ商人、ポルトガル・スペイン、大英帝国と時代ごとに特徴的な商人を紹介しながら世界史の変遷を辿っていく。世界史を勉強した際に主要な王朝は知っていたが、それらを結びつけていた商人という視点から世界史を見るのは新鮮で面白かった。とはいえ、各商人や時代の説明、地図などはもう少し欲しく物足りなさはあったが、新書なのでご愛嬌。ここから自分で掘り下げていきたい。",
+            "book": {
+                "author": {"name": "玉木 俊明"},
+                "page": 240,
+                "title": "商人の世界史: 小さなビジネス革命が世界を変えた (河出新書 065)",
+                "url": "https://www.amazon.co.jp/dp/4309631681/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4309631681&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-07",
+            "review": "Audibleにて。マーケティングの本かと思って読み始めたら思考やアイディアを広げたり深めたりする本だった。考える技術がブルーオーシャンという意見については分かるような情けないような気持ちがあったが、思えば人類が思考に向き合ってきたのは過去の哲学者を除けばここ数百年なのかと思った。脱二択やポジティブ化、ずらして考える、しっかり深く考える時間をとる、など参考になることがたくさんあった。",
+            "book": {
+                "author": {"name": "柿内 尚文"},
+                "page": 272,
+                "title": "パン屋ではおにぎりを売れ 想像以上の答えが見つかる思考法　地味だけど一生役立つ「考える技術」",
+                "url": "https://www.amazon.co.jp/dp/4761274999/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4761274999&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-04",
+            "review": "先日『老子』を読んで良かったのでこれ系の本をもう1冊読みたいと思って購入。高校の最初の合宿で中庸の「誠は天の道なり」の箇所を暗唱させられた馴染みで選んだが、思えば中庸を最初から最後まで読んだことはなかった。老荘思想を虚無主義、仏教を寂滅主義と言っていたのは『老子』を読んだばかりなのもあって面白かった。いくら昔の話とはいえ、法学や経済、科学ではなく道徳で国家を治めようとしていたのは社会がシンプルだったからなのだろうか。とはいえ天下を平らかにするべくまず自分の身を修めるための今も示唆に富む言葉が多かった。",
+            "book": {
+                "author": {"name": "朱子,金谷 治"},
+                "page": 270,
+                "title": "大学・中庸 (岩波文庫)",
+                "url": "https://www.amazon.co.jp/dp/4003322215/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4003322215&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-03-03",
+            "review": "Audibleにて。世の中の運が良くなる方法を科学的に解説を試みる本かと思って読み始めたらバチバチのスピリチュアル本だった。独自の宇宙の法則をもとに話が展開されており、自分の科学観とは合わず何度も聴くのをやめようと思ったが社会勉強だと思って聴き通した。とはいえ感じたこととして、表情や性格、身なりが悪い、部屋が汚い、悪い人との付き合いがある、そんな人がそれを改善すれば社会的にも衛生的にも良くなるだろうし、独自の宇宙観とはいえそれを信じる人たちに行動を促すのであればスピリチュアルも悪くないのかなと思った。",
+            "book": {
+                "author": {"name": "櫻庭露樹"},
+                "page": 240,
+                "title": "世の中の運がよくなる方法を試してみた (運を引き寄せる実験)",
+                "url": "https://www.amazon.co.jp/dp/4866800690/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4866800690&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-02-23",
+            "review": "Audibleにて。著者のジェーン・スー氏を存じ上げず、外国の人かと思っていたら最初に東京生まれとあって驚いた。自分の父はこんなに愉快で大好きなんだ、みたいなエッセイだと思っていたら、途中からちゃんと父のダメな部分も書いてある。それでもそんな父も好きだというのが伝わってくる。自分の家族について語ったエッセイをあんまり今まで読んでこなかったので新鮮だったし、いろんな家族の在り方や人生があるのを改めて感じたし、自分の家族も大好きだけどいつか別れがあって、改めて今を大事に家族に感謝を伝え続けていこうと思った。",
+            "book": {
+                "author": {"name": "ジェーン・スー"},
+                "page": 0,
+                "title": "生きるとか死ぬとか父親とか",
+                "url": "https://www.amazon.co.jp/dp/B0CP8XWH4C/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=B0CP8XWH4C&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-02-18",
+            "review": "Audibleにて。吉本ばななさんの本ということで聴いてみた。たまにスピリチュアルな部分があるのが気になったが、自己受容や周りにある現在の幸せに目を向けるという点は自分と似た考えでほっこりするような内容だった。なぜか心に残ったのは、最近はSNS等で自分の体験や言葉を公開しがちであるが、そういうのは外に出さずに自分の中にしまっておく、そうすれば熟成してくる、というもの。作家さんならではの感覚で面白いと思ったし、確かにすぐさま外に出してしまうと言葉や体験が軽くなってしまうなとも感じた。",
+            "book": {
+                "author": {"name": "吉本 ばなな"},
+                "page": 0,
+                "title": "幸せへのセンサー",
+                "url": "https://www.amazon.co.jp/dp/B0CNX9C8DW/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=B0CNX9C8DW&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-02-16",
+            "review": "Audibleにて。ついにインドを抜けて、パキスタン、アフガニスタン、イランとシルクロードをバスでどんどん進んでいく。現在はこんなに気安くそれらの国を通り抜けられるんだろうか。モスクでの人々の祈りの声、旅人同士での本の交換という文化には感じ入ってしまった。地名が出るたびにGoogleMapやWikipediaで調べてみているが、ペルシャの遺跡は物理的なスケールも時代的な深みもあって圧倒された。いつか自分もシルクロードを横断してみたいな。",
+            "book": {
+                "author": {"name": "沢木 耕太郎"},
+                "page": 240,
+                "title": "深夜特急4ーシルクロードー〈文字拡大増補新版〉 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101235317/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101235317&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-02-09",
+            "review": "Audibleにて。最近独立を考えていて読んだ。起業というと大きな壁のように感じてしまうが、小さく一歩ずつ階段を登っていく行動が大事だと教えてくれる。組織の運営もそうだけど起業もソフトウェア開発に通じるものがあるなと感じる。この本を読んでやる気ももらったが、同じくこの本に書いてある通り行動が大事なので実行していきたい。",
+            "book": {
+                "author": {"name": "今井 孝"},
+                "page": 288,
+                "title": "起業1年目の教科書: 1年目から無理なく年収1000万円稼ぐ",
+                "url": "https://www.amazon.co.jp/dp/4761270888/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4761270888&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-02-03",
+            "review": "誕生日が一緒なので勝手な親近感を抱いているしマルチタレントで尊敬もしているビートたけしさんの新刊。ちょうど人生の転換点を考えている際に目に留まったので読んでみた。もともと工学部なのは存じ上げなかったがたくさんの知識を今でもキャッチアップしてるんだなと実感。たけしさんらしい優しい言葉でそのままの人生でも幸せだと語ってくれる。自分自身も大学生のときに夢を持て成功しろという人生の正解みたいな無言の圧力に生き方が分からなくなり休学したし、今もたまに流されてしまいそうになるけど今のままで良いんだと再確認できた。",
+            "book": {
+                "author": {"name": "北野 武"},
+                "page": 232,
+                "title": "人生に期待するな",
+                "url": "https://www.amazon.co.jp/dp/4594092705/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4594092705&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-27",
+            "review": "Audibleにて。インド・ネパール回。実際に旅をするのとでは違うだろうが、日常の何気ないことや考えたことについても記述してくれているので旅を追体験しているような気分になれる。貧困、売春、差別、死体焼き場、病気、同室人の優しさ、うまいカップヌードル、怖い気持ちもある一方でいつか自分も自分の目で見てみたい気持ちがある。普段の生活にはない外国の新鮮さという魅力を感じつつ、おそらく日本にいても目線を変えれば新しい発見はあるだろうしブリーズ・イズ・ナイスを感じられるんじゃないかと日常を見つめ直してみようと思った。",
+            "book": {
+                "author": {"name": "沢木 耕太郎"},
+                "page": 272,
+                "title": "深夜特急3ーインド・ネパールー〈文字拡大増補新版〉 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101235309/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101235309&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-27",
+            "review": "ストレスと上手く向き合うにはいろんな人の考え方を知るといいよと技術顧問の方に勧められて読んだ。81章あるが最初から最後まで無為自然の考えを貫いているので割と読みやすいのではないか。理想論に感じて全てを受け入れられたわけではないが、美があるから醜があり善があるから悪があるというような考え方はいろんな考え方を見つめ直すきっかけになりそうだった。また、水のような柔弱なものが強いという考え方はチームや組織、ソフトウェアにも通じる考え方だなと思った。こういった思想をどうやって生み出したんだろう。",
+            "book": {
+                "author": {"name": "老子"},
+                "page": 453,
+                "title": "老子 (岩波文庫 青 205-1)",
+                "url": "https://www.amazon.co.jp/dp/4003320514/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4003320514&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-20",
+            "review": "昨年から芽生えた民俗学への興味から買って読んでみたが、自分にはまだ早かったようでかなり読むのがしんどかった。自分が思っていたよりも過酷だった当時のムラとそこから生まれた信仰について面白いと思いながら読んだ部分もあったが、全体を通して一定の民俗学やその歴史についての知識を前提としているようで、自分はまだそのレベルには達していなかったと感じる。とはいえ特に深刻になる必要もないので、引き続き自分の興味に従って面白そうな民俗学のトピックを拾ってゆき、いつかこの本も面白く読めるようになれたらいいな。",
+            "book": {
+                "author": {"name": "高取 正男"},
+                "page": 384,
+                "title": "宗教民俗学 (法蔵館文庫)",
+                "url": "https://www.amazon.co.jp/dp/4831826537/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4831826537&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-14",
+            "review": "ファッションの勉強の一環として、たくさんのパターンを知っておこうと思って購入。ストリートスナップなので奇抜なものや高級そうなものも多く、服のパターンとしてはあまり参考にはならなかったものの、自分も歳を取ったらこんなカッコいい大人になりたいと改めて強く思った。同時に感じたが、カッコいい大人は歳を取ったら自動的になれるものではなく、それまでの試行錯誤や努力があってこそだと感じたし、そのためには今のうちから自分もそれに向かって努力しなければと思わされた。",
+            "book": {
+                "author": {"name": "スコット・シューマン"},
+                "page": 306,
+                "title": "サルトリアリスト メンズ・ファッション ストリートスナップから学ぶ基礎と応用",
+                "url": "https://www.amazon.co.jp/dp/4766134818/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4766134818&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-13",
+            "review": "今年婚活に取り組むにあたり、今まで向き合って来なかったファッションを知っておこうと思い読んだ。全体的にシンプルでユニクロ推しだったが、自分もシンプルなものが好きだしユニクロで良いんだと自信を持てたので良かった。また、服以外にもその周辺の小物の紹介もあり、いつか余裕が出てきたときにその辺りも気をつけられるようになりたい。",
+            "book": {
+                "author": {"name": "晋遊舎"},
+                "page": 0,
+                "title": "【完全ガイドシリーズ335】メンズファッション完全ガイド (100%ムックシリーズ)",
+                "url": "https://www.amazon.co.jp/dp/4801817564/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4801817564&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-13",
+            "review": "今年は婚活をしようと思い、今までちゃんと向き合って来なかったファッションを知るために読んだ。IラインやYライン、色の合わせ方などファッションにおいても理論的に押さえられるところもあるんだなと感心した。Webデザインの本を読んだときにも感じたが、今までセンスとして敬遠していたものもちゃんと理論があるんだと。また、巻末にファッション用語解説もあったのもポイントが高く、その分野における語彙を増やすことは解像度の向上にもなって良かった。",
+            "book": {
+                "author": {"name": "MB"},
+                "page": 143,
+                "title": "メンズファッションの解剖図鑑",
+                "url": "https://www.amazon.co.jp/dp/4767822386/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4767822386&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-12",
+            "review": "去年からストレスマネジメントの向上を意識していたところに本屋で見つけた集大成のような本。カウンセリングで教えていただいた認知行動療法のメソッドが各所で紹介されているし、他のアプローチについても触れられている。本の構成としてはやる気が出ないとき・自信をなくしているとき・ストレスを感じているとき、など状況ごとに章立てされていて今後もリファレンスとして使えそう。メンタルマネジメントは必要になってから知るよりも事前に知っておいた方が良いと思うのでこういった網羅的な本を見つけられて良かった。",
+            "book": {
+                "author": {"name": "ジュリー・スミス"},
+                "page": 368,
+                "title": "一番大切なのに誰も教えてくれない メンタルマネジメント大全",
+                "url": "https://www.amazon.co.jp/dp/4309300243/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4309300243&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2024-01-05",
+            "review": "Audibleにて。自分にはあまり刺さらなかった。フィクションであることは分かりつつも、主人公の現実に不満を持ちつつも文句ばかりで具体的な行動があまりないことや、不安定な感情を表情に出して周囲に心配させる子供っぽさに少し距離感を持ってしまい物語にイマイチ入りきることができなかった。一方で、書店を中心とした書店員の働き方を知ることができた点では面白かった。",
+            "book": {
+                "author": {"name": "早見 和真"},
+                "page": 320,
+                "title": "店長がバカすぎて (ハルキ文庫 は 15-1)",
+                "url": "https://www.amazon.co.jp/dp/4758444269/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4758444269&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-31",
+            "review": "再読。毎年末に読んでいて今年で4回目になるが、毎年この本に書いてあることを実践していくことで少しずつ達人プログラマーに近づけているような気がする。以前は技術的なことやツール周りのことを気にしていた自分は、より大きな範囲や抽象度の高い課題解決について考えるようになった。全てはユーザーに価値を届けること、そのためにエンジニアリング(ときにそれ以外も用いた)を用いた問題解決者であること、そのために自分も含め組織やチーム、プロダクト、ソフトウェアを改善し続けていくこと。",
+            "book": {
+                "author": {"name": "David Thomas,Andrew Hunt"},
+                "page": 422,
+                "title": "達人プログラマー(第2版): 熟達に向けたあなたの旅",
+                "url": "https://www.amazon.co.jp/dp/4274226298/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4274226298&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": true
+        },
+        {
+            "date": "2023-12-29",
+            "review": "夏の東北旅行で秋田もと考えて購入していたが、結局時間の都合で予定から外したので詰んでいた。来年の2月にリベンジで秋田に行こうと思い読み始めた。菅原真澄、狩野亨吉、安藤昌益、内藤湖南など魅力的な人物を多数・同時代的に生み出した秋田という土地。飛騨においては、山国で高冷なために土地の生産性が低いからこそ良い酒のように文化が沈澱し熟成し今ではかえって新鮮なのではないか、という記述はとても美しかった。",
+            "book": {
+                "author": {"name": "司馬 遼太郎"},
+                "page": 352,
+                "title": "街道をゆく 29 秋田県散歩、飛騨紀行 (朝日文庫 し 1-85)",
+                "url": "https://www.amazon.co.jp/dp/4022644834/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4022644834&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-29",
+            "review": "もうすぐ自分も28で、キャリアの方向性について考えている。選択肢の一つに起業もあり読んでみることにした。29で起業をして10年以上かけて会社を大きくしていった著者による起業の現実を体験談とともに紹介する本。ためになる話もたくさんあったが、当たり前だよなと思う話もたくさんあり、当たり前を当たり前にできることや当たり前を知っていることはかなり重要なんだと思った。起業をする前に自分で小さなビジネスでも始めてみようかな。",
+            "book": {
+                "author": {"name": "井上 達也"},
+                "page": 241,
+                "title": "起業を考えたら必ず読む本 (Asuka business & language book)",
+                "url": "https://www.amazon.co.jp/dp/4756918557/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4756918557&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-28",
+            "review": "前巻のマイステューデントを読んで続きが気になったので一気に読んだ。今回は霧島透子、改め岩見沢寧々の思春期症候群の回。何者かになりたい、何者かでなくてはならない、という悩み自体は自分自身も通ったことがあるので共感しながら読めた。後半はミステリーサスペンスのような緊迫感のある読み味で、ページが止まらず深夜過ぎに最後まで読み切ってしまった。いよいよ最終章突入らしく、次巻も楽しみ。",
+            "book": {
+                "author": {"name": "鴨志田 一"},
+                "page": 326,
+                "title": "青春ブタ野郎はサンタクロースの夢を見ない (電撃文庫)",
+                "url": "https://www.amazon.co.jp/dp/4049148676/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4049148676&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-27",
+            "review": "今回はバイト先の塾の生徒である姫路紗良の思春期症候群がメインの回。自分が大学生の頃や若いことに読んでいた恋愛ストーリーは共感するところが多かったが、少し歳を重ねて読むと少しだけ距離があるように感じてセルフダメージを受けた。とはいえ作品自体は面白く、霧島透子についての手がかりは得たようだがまだ謎のままであり、次巻も気になる。",
+            "book": {
+                "author": {"name": "鴨志田 一"},
+                "page": 344,
+                "title": "青春ブタ野郎はマイスチューデントの夢を見ない (電撃文庫)",
+                "url": "https://www.amazon.co.jp/dp/4049139367/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4049139367&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-23",
+            "review": "noteで著者が書かれていた「プログラミングというより物事が出来るようになる思考法」を読み、気になってこちらも読んでみた。第1章はnoteに書かれていることがメインで、理解に時間をかけること、それ以降は著者が自身の生産性や人生を高めるために少しずつできるようになっていったことが自身の環境の体験とともに語られる。共感できる部分が多く、自分もタイムボックス制を取り入れてみたり、未完了のタスクの抱え込みは控えるようにしようと思った。",
+            "book": {
+                "author": {"name": "牛尾 剛"},
+                "page": 272,
+                "title": "世界一流エンジニアの思考法",
+                "url": "https://www.amazon.co.jp/dp/4163917683/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4163917683&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-17",
+            "review": "ダッシュボードを使ったデータドリブンな文化はメインのチームでは根付いてきており、別チームでも導入に際してビジネスサイドと擦り合わせながら進めている。もっと上手く進めたいなと思って読んでみた。トレジャーデータが今までのノウハウを結集して書いているだけあって、体系的に書かれており、デザインから課題に対する思考法まで載っている。大体のことは共感できることが多かったのでざっと読んでいったが、改めて価値あるダッシュボードの条件やダッシュボードを作るにあたっての課題の構造化の重要性を整理できたのは収穫だった。",
+            "book": {
+                "author": {"name": "トレジャーデータ,池田 俊介,藤井 温子,櫻井 将允,花岡 明"},
+                "page": 264,
+                "title": "ビジネスダッシュボード 設計・実装ガイドブック 成果を生み出すデータと分析のデザイン (VISUAL ANALYTICS)",
+                "url": "https://www.amazon.co.jp/dp/4798177644/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4798177644&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-16",
+            "review": "少し前に交通新聞社から出ている散歩の達人シリーズの東京散歩地図を読んだが、同じルートを別の解説で見たり、他のルートも知ってみたくて読んだ。東京散歩地図と同様に地図付きのルートマップと写真付きの解説がセットになっていて見やすい。載っているのは43コース、今は月一で東京を歩いているのでそれだと全部回るのに3年半くらいか、人生に楽しみはまだまだたくさんある。",
+            "book": {
+                "author": {"name": ""},
+                "page": 176,
+                "title": "歩く地図 東京散歩 2024 (2024年版) (SEIBIDO MOOK)",
+                "url": "https://www.amazon.co.jp/dp/4415113400/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4415113400&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-16",
+            "review": "少し前に別の出版社の東京散歩の雑誌を買ったが、近郊も見てみたくて読んだ。秩父や長瀞、銚子、成田、大宮、川越など東京以外の関東地方はもちろん、東京近郊と言いながら柴又や吉祥寺、国分寺なども含まれている。一つの散歩スポットにつき、地図付きの散歩コースと写真付きの解説がセットになっていてとても見やすくて面白い。早速豪徳寺・松陰神社を歩いてきた。東京も楽しいが、たまにはその外にも飛び出していきたい。",
+            "book": {
+                "author": {"name": ""},
+                "page": 160,
+                "title": "歩く地図 東京近郊散歩 2023-2024 (2023~2024年版) (SEIBIDO MOOK)",
+                "url": "https://www.amazon.co.jp/dp/4415113311/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4415113311&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-10",
+            "review": "先日、臨床心理士さんによる認知行動療法のオンラインカウンセリングを受け、最後の3回目のセッションで紹介していただいた本。自分が受けたのは認知再構成法というもので、それ以外の認知行動療法のアプローチを知りたくて読んだが、マインドフルネスやスキーマ療法などを知ることができたし、それ以外についても分かりやすく優しい言葉で書かれていて良かった。認知行動療法を毎日実践するようになってからは仕事上やそれ以外のストレスにも上手く対処できるようになりつつあるし、メンタルも安定している。",
+            "book": {
+                "author": {"name": "伊藤絵美"},
+                "page": 304,
+                "title": "セルフケアの道具箱 ── ストレスと上手につきあう100のワーク",
+                "url": "https://www.amazon.co.jp/dp/4794971818/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4794971818&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-12-03",
+            "review": "先日、同じく小林修氏の写真集である「坂の上の雲」の視点の方を読んでとても良かったので大好きな「街道をゆく」の方も買ってみた。表紙になっているゴビ砂漠の写真の見開きのページはまるで自分がその場にいるかのように鳥肌が立ってしまった。他の写真も旅行に行きたくてムズムズするようなものばかりだし、司馬先生のまだ読んでいない他の作品も読みたくなるようなものばかりだった。行きたい場所、読みたい本が溜まっていくばかりだ。",
+            "book": {
+                "author": {"name": "小林修"},
+                "page": 192,
+                "title": "司馬遼太郎「街道をゆく」の視点",
+                "url": "https://www.amazon.co.jp/dp/4023318477/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4023318477&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-11-25",
+            "review": "Audibleにて。次に聴く作品を探していたらビートたけしさんの作品があった。マルチタレントというのは知っていたが、恋愛小説まで書いていたのは初めて知りダウンロードした。読む人の視点で評価が分かれそうな作品であり、あのたけしさんが描く恋愛小説という視点では設定やギャグも面白く読めたし、ただの恋愛小説として見ると漂う昭和感や物足りなさがありそう。デザイン会社の仕事はちゃんと取材されているんだろう、しっかり小説になっていて個人的には面白く読めたし、たけしさんが情に熱くロマンチストで多才なのが伝わってくる。",
+            "book": {
+                "author": {"name": "ビートたけし"},
+                "page": 174,
+                "title": "アナログ",
+                "url": "https://www.amazon.co.jp/dp/4103812222/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4103812222&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2023-11-15",
+            "review": "司馬遼太郎記念館に行った際に購入。『坂の上の雲』の文章を引用しながら、それにあった場所の風景の写真を掲載した写真集。松山城から始まり、正岡子規にまつわる場所やロンドン、サンクトペテルブルク、旅順、そして再び松山城と構成がとても美しかった。『坂の上の雲』を違った世界観で楽しむことができたようで、また読み直してみたい思いに駆られた。『街道をゆく』の写真集もあるようなのでそちらも読みたい。",
+            "book": {
+                "author": {"name": "小林 修"},
+                "page": 128,
+                "title": "司馬遼太郎「坂の上の雲」の視点",
+                "url": "https://www.amazon.co.jp/dp/4023322687/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4023322687&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-11-04",
+            "review": "2泊3日の大阪旅行の2日目に梅田で購入。初日に購入したかったがタイミングが合わず買えなかった。やはり旅行の際はその土地の構造や特色を地図で把握しておきたいので買って目を通しておくべきだった。特に大阪のような複雑な土地においては必須だった。",
+            "book": {
+                "author": {"name": ""},
+                "page": 160,
+                "title": "まっぷる 大阪観光'24 (まっぷるマガジン 関西07)",
+                "url": "https://www.amazon.co.jp/dp/4398297138/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4398297138&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": "2023-11-03",
+            "review": "Audibleにて。バンコクからマレー半島を南下しながらシンガポールへ。自分の海外渡航経験は北欧しかなく、東南アジアには土地勘がないのでGoogleマップと本書内の場所を見比べながら読んでいた。今では都市もインフラも発展している様子で、当時の旅行は大変だったことが本書の文を通しても伝わってくるがそれが旅の醍醐味だったのだろう。巻の後半にあった、決めることで何かに固定されることへの怖さと執行猶予について、自分の場合は大学3年の休学がそれだったので強い共感があった。",
+            "book": {
+                "author": {"name": "沢木 耕太郎"},
+                "page": 256,
+                "title": "深夜特急2 ー マレー半島・シンガポール〈文字拡大増補新版〉 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101235295/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101235295&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Audible",
+            "isRereading": false
+        },
+        {
+            "date": "2023-10-30",
+            "review": "ネタバレ",
+            "book": {
+                "author": {"name": "ジェイムズ・P・ホーガン"},
+                "page": 440,
+                "title": "未踏の蒼穹 (創元SF文庫 ホ 1-28)",
+                "url": "https://www.amazon.co.jp/dp/4488663281/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4488663281&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
         {
             "date": "2025-07-25",
             "review": "Audibleにて。古代オリエント史をメソポタミア、エジプト、シリア、パレスティナと詳細に解説する。4章最後の古代の人々には神々の声が聴こえていた説はちょっと受け入れがたかったが、古代エジプト史は面白かったし、個人的にも海の民を雑に使いすぎだと思っていたところをツッコんでくれて良かった。詳細に解説してくれるので古代世界に思いを馳せながら旅しているようで面白かった。個人的には人々が文字という発明を手に入れる以前と以後でどんな精神的構造の変化があったのか、それが社会にどういう変化を与えたのかが気になる。",
@@ -11630,5 +12494,5 @@
             "isRereading": false
         }
     ],
-    "totalPages": 296323
+    "totalPages": 314326
 }
