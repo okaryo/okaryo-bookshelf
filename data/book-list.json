@@ -1,6 +1,306 @@
 {
-    "recordsCount": 1041,
+    "recordsCount": 1066,
     "records": [
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "池上 彰"},
+                "page": 182,
+                "title": "知らないと恥をかく世界の大問題 角川SSC新書 (角川SSC新書 81)",
+                "url": "https://www.amazon.co.jp/dp/4047315044/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4047315044&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "小阪 淳,片桐 暁"},
+                "page": 303,
+                "title": "宇宙に恋する10のレッスン 最新宇宙論物語",
+                "url": "https://www.amazon.co.jp/dp/4487804337/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4487804337&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "沼澤 茂美,脇屋 奈々代"},
+                "page": 271,
+                "title": "140億光年のすべてが見えてくる宇宙の事典 オールカラー版",
+                "url": "https://www.amazon.co.jp/dp/4816336575/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4816336575&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "村山 斉"},
+                "page": 226,
+                "title": "宇宙は何でできているのか (幻冬舎新書 む 2-1)",
+                "url": "https://www.amazon.co.jp/dp/434498188X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=434498188X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": ""},
+                "page": 253,
+                "title": "「相対性理論」を楽しむ本 よくわかるアインシュタインの不思議な世界 (PHP文庫)",
+                "url": "https://www.amazon.co.jp/dp/4569572162/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4569572162&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": ""},
+                "page": 252,
+                "title": "「量子論」を楽しむ本 ミクロの世界から宇宙まで最先端物理学が図解でわかる! (PHP文庫)",
+                "url": "https://www.amazon.co.jp/dp/4569573908/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4569573908&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "相澤 理"},
+                "page": 269,
+                "title": "歴史が面白くなる 東大のディープな日本史",
+                "url": "https://www.amazon.co.jp/dp/4806143790/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4806143790&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "佐藤 多佳子"},
+                "page": 455,
+                "title": "黄色い目の魚 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101237344/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101237344&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "岩井 恭平"},
+                "page": 328,
+                "title": "サマーウォーズ (角川文庫 い 67-1)",
+                "url": "https://www.amazon.co.jp/dp/4044288224/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4044288224&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "滝沢 馬琴,浜 たかや"},
+                "page": 258,
+                "title": "南総里見八犬伝 (第4の物語)",
+                "url": "https://www.amazon.co.jp/dp/4037444801/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4037444801&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "滝沢 馬琴,浜 たかや"},
+                "page": 239,
+                "title": "南総里見八犬伝 (第3の物語)",
+                "url": "https://www.amazon.co.jp/dp/4037444704/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4037444704&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "滝沢 馬琴,浜 たかや"},
+                "page": 199,
+                "title": "南総里見八犬伝 第2の物語",
+                "url": "https://www.amazon.co.jp/dp/4037444607/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4037444607&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "滝沢 馬琴,浜 たかや"},
+                "page": 231,
+                "title": "南総里見八犬伝 (第1の物語)",
+                "url": "https://www.amazon.co.jp/dp/403744450X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=403744450X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "朝井 リョウ"},
+                "page": 256,
+                "title": "桐島、部活やめるってよ (集英社文庫)",
+                "url": "https://www.amazon.co.jp/dp/4087468178/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4087468178&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "横山 秀夫"},
+                "page": 354,
+                "title": "臨場 (光文社文庫 よ 14-1)",
+                "url": "https://www.amazon.co.jp/dp/433474303X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=433474303X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "横山 秀夫"},
+                "page": 424,
+                "title": "第三の時効",
+                "url": "https://www.amazon.co.jp/dp/4087460193/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4087460193&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "横山 秀夫"},
+                "page": 429,
+                "title": "64(ロクヨン) 下 (文春文庫 よ 18-5)",
+                "url": "https://www.amazon.co.jp/dp/4167902931/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4167902931&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "横山 秀夫"},
+                "page": 355,
+                "title": "64(ロクヨン) 上 (文春文庫 よ 18-4)",
+                "url": "https://www.amazon.co.jp/dp/4167902923/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4167902923&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "村上 春樹"},
+                "page": 394,
+                "title": "1Q84 BOOK3〈10月\u201012月〉後編 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101001642/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101001642&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "村上 春樹"},
+                "page": 391,
+                "title": "1Q84 BOOK3〈10月\u201012月〉前編 (新潮文庫)",
+                "url": "https://www.amazon.co.jp/dp/4101001634/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4101001634&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "丸山 真男"},
+                "page": 192,
+                "title": "日本の思想 (岩波新書 青版 434)",
+                "url": "https://www.amazon.co.jp/dp/400412039X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=400412039X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "高階 秀爾"},
+                "page": 190,
+                "title": "名画を見る眼 (岩波新書 青版 729)",
+                "url": "https://www.amazon.co.jp/dp/4004140641/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4004140641&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "高階 秀爾"},
+                "page": 210,
+                "title": "続 名画を見る眼 (岩波新書 青版 E-65)",
+                "url": "https://www.amazon.co.jp/dp/400414065X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=400414065X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "ジミー・カーター,フェルナンド・カルドーゾ,グロ・ハーレム・ブルントラント,メアリー・ロビンソン,マルッティ・アハティサーリ,リチャード・ブランソン"},
+                "page": 240,
+                "title": "知の英断 (NHK出版新書)",
+                "url": "https://www.amazon.co.jp/dp/4140884320/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4140884320&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
+        {
+            "date": null,
+            "review": "",
+            "book": {
+                "author": {"name": "ジャレド・ダイアモンド,ノーム・チョムスキー,オリバー・サックス,マービン・ミンスキー,トム・レイトン,ジェームズ・ワトソン"},
+                "page": 304,
+                "title": "知の逆転 (NHK出版新書)",
+                "url": "https://www.amazon.co.jp/dp/4140883952/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=4140883952&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_logoff-22"
+            },
+            "format": "Paper",
+            "isRereading": false
+        },
         {
             "date": "2025-07-25",
             "review": "Audibleにて。古代オリエント史をメソポタミア、エジプト、シリア、パレスティナと詳細に解説する。4章最後の古代の人々には神々の声が聴こえていた説はちょっと受け入れがたかったが、古代エジプト史は面白かったし、個人的にも海の民を雑に使いすぎだと思っていたところをツッコんでくれて良かった。詳細に解説してくれるので古代世界に思いを馳せながら旅しているようで面白かった。個人的には人々が文字という発明を手に入れる以前と以後でどんな精神的構造の変化があったのか、それが社会にどういう変化を与えたのかが気になる。",
@@ -12494,5 +12794,5 @@
             "isRereading": false
         }
     ],
-    "totalPages": 314326
+    "totalPages": 321531
 }
